@@ -26,7 +26,15 @@ location coordinates..
 3. install packages
    pip install -r .\requirements.txt
 4. run python main.py
-5. swagger : http://localhost:8080/documentation
+5. swagger: http://localhost:8080/documentation
 
+## Folder structure 
 
-   
+- common 
+- config 
+- dependencies 
+- middleware 
+- repository
+- routers
+- services
+  
